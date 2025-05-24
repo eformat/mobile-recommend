@@ -101,7 +101,7 @@ python -m vllm.entrypoints.openai.api_server \
 
 Check api:
 
-```json
+```bash
 curl -s -X 'GET' http://localhost:8080/v1/models -H 'accept: application/json' | jq .
 ```
 

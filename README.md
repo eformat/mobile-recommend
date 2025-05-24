@@ -4,9 +4,9 @@
 Demo chainlit+langchain app to recommend mobile phones using the [Kaggle mobile-recommendation-system-dataset](https://www.kaggle.com/datasets/gyanprakashkushwaha/mobile-recommendation-system-dataset/data).
 
 <p float="left">
-  <img src="images/img1.png" width="100" />
-  <img src="images/img2.png" width="100" />
-  <img src="images/img3.png" width="100" />
+  <img src="images/mobile-recommend1.png" width="200" />
+  <img src="images/mobile-recommend2.png" width="200" />
+  <img src="images/mobile-recommend3.png" width="200" />
 </p>
 
 ## Commands
